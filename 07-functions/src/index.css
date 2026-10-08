@@ -1,0 +1,21 @@
+button{
+  margin: 10px;
+}
+
+.page1{
+  width: 100%;
+  height: 100vh;
+  background-color: blueviolet;
+}
+
+.page2{
+  width: 100%;
+  height: 100vh;
+  background-color: grey;
+}
+
+.page3{
+  width: 100%;
+  height: 100vh;
+  background-color: red;
+}
